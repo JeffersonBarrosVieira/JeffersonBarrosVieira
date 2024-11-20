@@ -56,6 +56,17 @@ Here are some of my most exciting projects! 🚀
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=JeffersonBarrosVieira&theme=github)
 
 ---
+
+### 🟩 Contribution Activity
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=JeffersonBarrosVieira&theme=react-dark)
+
+---
+
+### 🌌 Contribution Graph in 3D
+![3D Contribution Graph](https://github-contributions.now.sh/render?user=JeffersonBarrosVieira)
+
+
+---
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/jefferson-barros-vieira)  
 - [Portfolio](https://jeffersonbarrosvieira.github.io)  
