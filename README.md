@@ -41,6 +41,10 @@ Here are some of my most exciting projects! 🚀
 
 ---
 
+### 📊 Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonBarrosVieira&layout=compact&theme=radical)
+
+---
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffersonbarrosvieira&show_icons=true&theme=radical)
 
