@@ -45,11 +45,22 @@ Here are some of my most exciting projects! 🚀
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonBarrosVieira&layout=compact&theme=radical)
 
 ---
-## 📈 GitHub Stats
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=JeffersonBarrosVieira&theme=radical)
+
+---
+<!-- ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffersonbarrosvieira&show_icons=true&theme=radical)
 
 ---
+-->
+![GitHub Streak](https://streak-stats.demolab.com/?user=JeffersonBarrosVieira&theme=radical)
 
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeffersonBarrosVieira&show_icons=true&theme=radical)
+
+---
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/jefferson-barros-vieira)  
 - [Portfolio](https://jeffersonbarrosvieira.github.io)  
