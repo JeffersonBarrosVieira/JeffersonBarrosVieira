@@ -52,9 +52,6 @@ Here are some of my most exciting projects! 🚀
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JeffersonBarrosVieira&theme=radical)
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeffersonBarrosVieira&show_icons=true&theme=radical)
-
----
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/jefferson-barros-vieira)  
 - [Portfolio](https://jeffersonbarrosvieira.github.io)  
