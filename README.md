@@ -1,6 +1,6 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub Profile!
 
-## About Me 🌟
+## About Me
 I am passionate about **logic-driven areas**, always eager to explore and learn new technologies. My current learning journey includes **JavaScript, HTML, CSS, and NoSQL**, but I also enjoy leveraging **Python** to automate personal workflows and solve problems creatively.
 
 💻 **Primary Focus:** JavaScript Development  
@@ -8,7 +8,7 @@ I am passionate about **logic-driven areas**, always eager to explore and learn 
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 - **Languages:**  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -24,20 +24,20 @@ I am passionate about **logic-driven areas**, always eager to explore and learn 
 
 ---
 
-## 🌟 Featured Projects
-Here are some of my most exciting projects! 🚀
+## Featured Projects
+Here are some of my most exciting projects! 
 
 - [**Project Automation**](https://github.com/jeffersonbarrosvieira/Busca_rapida_mercado_livre)  
   Automating personal processes using Python for greater efficiency.  
-  🌟 Highlights: Integration with APIs, custom scripts for daily workflows.
+   Highlights: Integration with APIs, custom scripts for daily workflows.
 
 - [**JS Web App**](https://github.com/jeffersonbarrosvieira/labfisicav3)  
   A dynamic web application built with JavaScript, HTML, and CSS.  
-  🌟 Highlights: Responsive design, interactive UI, NoSQL database integration.
+   Highlights: Responsive design, interactive UI, NoSQL database integration.
 
 - [**Portfolio Website**](https://github.com/jeffersonbarrosvieira/jeffersonbarrosvieira.github.io/)  
   A showcase of my work and skills in web development.  
-  🌟 Highlights: React-based SPA, animations, and seamless navigation.
+   Highlights: React-based SPA, animations, and seamless navigation.
 
 ---
 
